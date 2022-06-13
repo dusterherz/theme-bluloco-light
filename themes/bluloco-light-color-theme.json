@@ -312,7 +312,7 @@
     "symbolIcon.objectForeground": "#383a42",
     "symbolIcon.operatorForeground": "#7A82DA",
     "symbolIcon.keyForeground": "#A05A48",
-    "symbolIcon.propertyForeground": "#A05A48",
+    "symbolIcon.propertyForeground": "#00DED8",
     "symbolIcon.fieldForeground": "#A05A48",
     "symbolIcon.enumeratorMemberForeground": "#A05A48",
     "symbolIcon.referenceForeground": "#383a42",
@@ -811,7 +811,7 @@
         "variable.graphql"
       ],
       "settings": {
-        "foreground": "#a05a48"
+        "foreground": "#00DED8"
       }
     },
     {
